@@ -1,0 +1,33 @@
+</style>
+  <title>Browser</title>
+</head>
+
+<body>
+  <h1 class="teste">
+    A vida é bela mais traz com ela um espinho 
+  </h1>
+  <h1 class="teste2">você escolhe entre petalas e espinho</h2>
+    <div class="cartao-noticia">
+        <h2>Notícia 1</h2>
+        <p>Este é um cartão comum de notícias.</p>
+    </div>
+
+    <!-- Usando a classe para o visual padrão E o id para o destaque único -->
+    <div class="cartao-noticia" id="noticia-urgente">
+        <h2>URGENTE!</h2>
+        <p>Esta notícia é única e precisa de um destaque especial.</p>
+    </div>
+
+    <!-- Outro cartão comum com a mesma classe -->
+    <div class="cartao-noticia">
+        <h2>Notícia 3</h2>
+        <p>Outro cartão que puxa o mesmo estilo do primeiro.</p>
+    </div>
+
+  <p>
+    Our HTML editor updates the webview automatically in real-time as you write code.
+  </p>
+  <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(241, 241, 241);
+    margin: 30px;
+    font-family: Verdana, sans-serif;
+    }
+    .teste{
+    background:red;
+    font-family: Verdana, sans-serif;
+    }
+
+            /* Classes começam com PONTO (.) */
+            /* Aplica o mesmo estilo para todos os elementos que usam essa classe */
+            .cartao-noticia {
+                padding: 15px;
+                margin-bottom: 10px;
+                border-radius: 5px;
+            }
+
+            /* IDs começam com CERQUILHA (#) */
+            /* Aplica o estilo APENAS para aquele elemento específico e único */
+            #noticia-urgente {
+                border: 2px solid red;
+                background-color: red;
+            }
+            .cartao-noticia-esportiva {
+                padding: 15px;
+                margin-bottom: 10px;
+                border-radius: 5px;
+                background-color: rgb(192, 221, 192);
+            }            
