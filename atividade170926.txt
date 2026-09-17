@@ -1,0 +1,28 @@
+Construa um site com pelo menos  3 arquivos HMTL
+sendo: 
+index.html - Arquivo principa
+Historia.html  - Historia, conteúdo informações fotos
+pagina2.html - fotos e dado
+
+
+Estrutura do site
+\
+ Index.html
+ historia.html
+ pagina2.html
+ img\ (pasta)
+	imagem1.jpg
+	imagem2.jpg
+ css\ (pasta)
+	style.css
+
+Tema - Estado ou País
+	 Personalidade (pessoa/grupo reconhecido)
+
+OBRIGATÓRIO USO DE TODOS OS ELEMENTOS(HTML/CSS) VISTO NA AULA;
+MINÍMO 5 IMAGENS
+TABELA
+LINK
+SERÁ: considerado conteúdo, formatação "visual"		
+
+
