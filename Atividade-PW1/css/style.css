@@ -1,3 +1,8 @@
 body{
-    
+    background-image: linear-gradient(to right, rgb(173, 80, 96), rgb(238, 158, 172),rgb(241, 171, 241), rgb(201, 201, 243));
+    margin: 30px;
+}
+
+h1{
+    text-align: center;
 }
