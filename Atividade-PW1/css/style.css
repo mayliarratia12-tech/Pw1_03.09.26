@@ -1,8 +1,141 @@
 body{
-    background-image: linear-gradient(to right, rgb(173, 80, 96), rgb(238, 158, 172),rgb(241, 171, 241), rgb(201, 201, 243));
+    background-image: linear-gradient(to right, rgb(11, 19, 43), rgb(42, 30, 69),rgb(28, 37, 65));
     margin: 30px;
+
 }
+
+
+/* Centralizando texto */
 
 h1{
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: whitesmoke;
+}
+
+h3{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container_paragrafo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    padding: 15px;
+    color: whitesmoke;
+    background-color: rgb(72, 202, 228);
+
+}
+
+     /* Adicionando as informação básica sobre a ciência em retângulos redondos*/
+
+.card1{
+    padding: 50px;
+    background-color: rgb(72, 202, 228);
+    border-radius: 25px;
+    border: 10px;
+    margin: 50px;
+    text-align: center;
+    color: azure;
+
+}
+
+     /* Adicionando as informação básica sobre a equação em retângulos redondos*/
+
+.card2{
+        padding: 50px;
+    background-color: rgb(72, 202, 228);
+    border-radius: 25px;
+    border: 10px;
+    margin: 50px;
+    text-align: center;
+    color: azure;
+}
+
+
+    /* Adicionando as informação básica sobre o prêmio nobel em retângulos redondos*/
+
+.card3{ 
+    padding: 50px;
+    background-color: rgb(72, 202, 228);
+    border-radius: 25px;
+    border: 10px;
+    margin: 50px;
+    text-align: center;
+    color: azure;
+}
+
+/* Estetilizando a página História */
+
+.Infancia{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.Estudos{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.Trabalho{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.ano{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.Eua{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.ultimo{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+table, th, td{
+    color: rgb(11, 26, 73);
+    border-width: 2px;
+    border-style: solid;
+    border-color: lightsteelblue;
+    align-items: center;
+    width: 650px;
+    height: 45px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(81, 72, 216);
+    
+}
+
+th{
+    
+    background-color: rgb(72, 202, 228);
+}
+
+td{
+    background-color: rgb(230, 234, 225);
+}
+
+img{
+    margin: 35px;
+    margin-right: 5px;
+    gap: 15px;
+    justify-content: center;
+
+
 }
