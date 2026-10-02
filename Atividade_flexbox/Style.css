@@ -1,0 +1,75 @@
+body{
+    background-image: linear-gradient(to right, #F7F9FC, #B19FFA);
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+}
+h1{
+    color: #693AF5;
+    text-align: justify;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+.item{
+
+    display: flex;
+    background-color: #F7F9FC;
+    border-radius: 16px;
+    box-shadow: 0 20px 40px #8b73e9;
+    padding: 30px;
+    gap: 40px;
+    align-items: center;
+    
+}
+
+.Contact{
+
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 0 5px 15px #8b73e9;
+    border: 1px solid #f0f2f7;
+    
+}
+
+.Shop{
+
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 0 5px 15px #8b73e9;
+    border: 1px solid #f0f2f7;
+    
+}
+
+.About{
+
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 0 5px 15px #B19FFA;
+    border: 1px solid #f0f2f7;
+    
+}
+
+button{
+
+    color: #F7F9FC;
+    background-color: #957ef3;
+    border: 2px #6b3cfa;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 2px 5px rgba(123, 27, 202, 0.1);
+
+}
+
+h4{
+    font-size: 20px;
+
+}
