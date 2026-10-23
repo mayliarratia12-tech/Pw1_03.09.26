@@ -1,0 +1,43 @@
+Java Script
+
+Linguagem de programação 
+
+JavaScript entra no site para ter 
+
+HTML - Estrutura
+CSS - Visual 
+JS - Manipulação de variáveis, dar um comportamento para o site.
+- Consegue gravar dados;
+- 
+
+DOM - Document Object Model
+
+O que é uma função em programação? 
+R: É dar um objetivo para um elemento
+
+
+Onclick="" 
+Ao ser clicado = "";
+
+exibir()
+Isso é uma característica;
+
+document.write(5 + 6);
+Faz uma conta;
+
+<style> </style> : Css, tag para usar dentro do html
+<script> </script> : JS, tag para usar dentro do html
+
+
+
+
+
+
+
+
+
+XML - Não é linguagem de programação : Forma de manipular dados
+Json - Não é linguagem de programação
+Java - Aplicação web, para computador, jogos...
+PHP - É uma linguagem boa para manipulação de dados. 
+
